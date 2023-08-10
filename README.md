@@ -52,14 +52,17 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 </details>
 
 <br><br><br><h2>🐕‍🦺 Contents_2) Defining the Problem</h2>
-<h3>🎓 RC카 조립 및 기본 IDE 설정</h3>
+<h3>👁️‍🗨️ Defining the Problem Through Interviews and Points of View (PoV)</h3>
 
-![스크린샷 2023-04-15 231930](https://user-images.githubusercontent.com/102565567/232230164-5935c275-a2e2-4a3a-b64d-2169b0923fff.png)
+![스크린샷 2023-08-10 121624](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/635bd8cd-03d2-40cc-9b0c-012c095abf95)
 
-<br><p><h3>🎓 Used Tech Stacks</h3>
-: **Arduino IDE** & **Kit** <br>
-➡️ `Smart car base`, `DC motor`, `Car Wheels`, `Supports`, `Speed encoder`, `1.5V AA battery holder`, `Pin header`, `T-head`, `Ultrasonic sensor`, `USB cable for Uno`, `Toggle switch`, `Uno R3 compatible board`, `Mini breadboard`, `Motor driver shield`<br><br>
-: **`C`** & **`C++`**
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img width="298" alt="핑크색" src="https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/f7bf1d18-6948-4e7a-a2f0-079e61b064e3">
+
+![스크린샷 2023-08-10 121735](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/4c9862e6-25e2-4867-86c3-83d6ea74b008)
+
+
+
+
 
 <br><br><br><h2>🐕‍🦺 Contents_3) 정상 소스 코드 분석 및 취약점 탐색</h2>
 <h3>🎓 정상 주행 코드</h3>
