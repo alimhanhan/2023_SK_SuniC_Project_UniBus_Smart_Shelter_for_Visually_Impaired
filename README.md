@@ -39,11 +39,15 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 
 ![스크린샷 2023-08-10 114634](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/1153b4f4-33e9-41b8-af72-b2882fe48560)
 
+<h4>ㅤRecognizing the notably low bus utilization rate among the visually impaired and the gap between the current situation and the goal of seamless bus boarding for them, when considering the following questions, we were able to extract the following insights:</h4><br>
+<h3>➡️ Since visually impaired individuals are unable to accurately determine when and where buses stop, they often encounter difficulties and perceive risks during the boarding process.<br>This uncertainty leads them to avoid using buses altogether.</h3>
+
 <br><hr><br>
 
 ![스크린샷 2023-08-10 114722](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/76008264-a663-4761-a0e8-1ac562965f0c)
 
-
+<h4>ㅤWith this realization, we shifted our focus towards further systematizing the bus boarding process for the visually impaired, and we recognized the need for deeper empathy.<br><br>
+ ㅤTo achieve this, we drew inspiration from various sources featuring visually impaired individuals. Subsequently, we translated the visually impaired individual's bus boarding journey into a table format as depicted above.</h4>
 </div>
 </details>
 <details>
