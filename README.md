@@ -35,7 +35,7 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 </div>
 <summary><h3>📑5 WHYS & Customer Journey Map</h3></summary>
 <div markdown="1">
-<h3>👁️‍🗨️ Discovering Challenges in Bus Boarding for the Visually Impaired</h3>
+<h3>👁️‍🗨️ Establishing a Foundation for Problem Definition</h3>
 
 ![스크린샷 2023-08-10 114634](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/1153b4f4-33e9-41b8-af72-b2882fe48560)
 
