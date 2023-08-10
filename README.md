@@ -90,7 +90,7 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 
 
 <h4>ㅤA smart shelter is a bus stop that incorporates forward-looking technologies, including features such as air conditioning, heating, and air purification, as seen in the image above.
-<br><br>ㅤCurrently, there are 10 smart shelters being operated as a pilot project, and they are planned to be gradually expanded across all of Seoul from next year.</h4><br>
+<br><br>ㅤCurrently, there are 10 smart shelters being operated as a pilot project, and they are planned to be gradually expanded across all of Seoul from next year.</h4><br><hr>
 </div>
 </details>
 <details>
