@@ -30,7 +30,7 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 
 ![스크린샷 2023-08-10 113941](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/6dbed1fe-8bf0-4e77-9a1e-f882416d1d17)
 
-</details>
+<hr></details>
 <details>
 </div>
 <summary><h3>📑5 WHYS & Customer Journey Map</h3></summary>
@@ -40,41 +40,18 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 ![스크린샷 2023-08-10 114634](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/1153b4f4-33e9-41b8-af72-b2882fe48560)
 
 <h4>ㅤRecognizing the notably low bus utilization rate among the visually impaired and the gap between the current situation and the goal of seamless bus boarding for them, when considering the following questions, we were able to extract the following insights:</h4><br>
-<h3>➡️ Since visually impaired individuals are unable to accurately determine when and where buses stop, they often encounter difficulties and perceive risks during the boarding process.<br>This uncertainty leads them to avoid using buses altogether.</h3>
+<h3>➡️ Since visually impaired individuals are unable to accurately determine when and where buses stop, they often encounter difficulties and perceive risks during the boarding process. This uncertainty leads them to avoid using buses altogether.</h3>
 
 <br><hr><br>
 
 ![스크린샷 2023-08-10 114722](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/76008264-a663-4761-a0e8-1ac562965f0c)
 
 <h4>ㅤWith this realization, we shifted our focus towards further systematizing the bus boarding process for the visually impaired, and we recognized the need for deeper empathy.<br><br>
- ㅤTo achieve this, we drew inspiration from various sources featuring visually impaired individuals. Subsequently, we translated the visually impaired individual's bus boarding journey into a table format as depicted above.</h4>
-</div>
-</details>
-<details>
-</div>
-<summary><h3>📑Background Description</h3></summary>
-<div markdown="1">
-<h3>👁️‍🗨️ Discovering Challenges in Bus Boarding for the Visually Impaired</h3>
-
-
-
-</div>
-</details>
-<details>
-</div>
-<summary>📑Background Description</summary><br>
-<div markdown="1">
-# 임시파일 데이터 조작을 통한 아두이노 보드 공격 기법에 대한 연구<br>
-
-
-
+ ㅤTo achieve this, we drew inspiration from various sources featuring visually impaired individuals. Subsequently, we translated the visually impaired individual's bus boarding journey into a table format as depicted above.</h4><hr>
 </div>
 </details>
 
-
-
-
-<br><br><br><h2>🐕‍🦺 Contents_2) 아두이노 RC카 조립 & 아두이노 주행 환경 구축</h2>
+<br><br><br><h2>🐕‍🦺 Contents_2) Defining the Problem</h2>
 <h3>🎓 RC카 조립 및 기본 IDE 설정</h3>
 
 ![스크린샷 2023-04-15 231930](https://user-images.githubusercontent.com/102565567/232230164-5935c275-a2e2-4a3a-b64d-2169b0923fff.png)
