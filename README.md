@@ -5,28 +5,50 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 
 
 
-<br><br><h2>🎯Step_1) IoT 관련 네트워크 & 취약점 스터디</h2>
-: **센서값 및 함수 조작 스터디 진행 및 보고서 작성 & 시나리오 기반 익스플로잇 방안 연구**
-
+<br><br><h2>🐕‍🦺 Contents_1) Introduction to Project Background </h2>
 <details>
-<summary>📑참고 자료 및 논문</summary><br>
+<summary>📑Background Description</summary><br>
 <div markdown="1">
 # 임시파일 데이터 조작을 통한 아두이노 보드 공격 기법에 대한 연구<br>
---> https://www.notion.so/0105-89580f8a02d34a65aa194665a335a3a0?pvs=4#b3b07534d4374f56935bcb47e6a27c31
-<br><br>
-# KISA IoT 공통보안 가이드<br>
---> https://www.kisa.or.kr/2060205/form?postSeq=2&lang_type=KO&page
-<br><br>
-# Arduino를 이용한 데이터 통신 암호 모듈<br>
---> https://koreascience.kr/article/CFKO201331751949663.pdf
-<br><br>
-# 아두이노를 이용한 다중 레벨 인증 시스템<br>
---> https://koreascience.kr/article/CFKO201523070247810.pdf
+
+![스크린샷 2023-08-10 110805](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/8856db37-ea62-4688-b326-f43ff9971d36)
+
+</details>
+<details>
+</div>
+<summary>📑Background Description</summary><br>
+<div markdown="1">
+# 임시파일 데이터 조작을 통한 아두이노 보드 공격 기법에 대한 연구<br>
+
+
+
+</div>
+</details>
+<details>
+</div>
+<summary>📑Background Description</summary><br>
+<div markdown="1">
+# 임시파일 데이터 조작을 통한 아두이노 보드 공격 기법에 대한 연구<br>
+
+
+
+</div>
+</details>
+<details>
+</div>
+<summary>📑Background Description</summary><br>
+<div markdown="1">
+# 임시파일 데이터 조작을 통한 아두이노 보드 공격 기법에 대한 연구<br>
+
+
 
 </div>
 </details>
 
-<br><br><br><h2>🎯Step_2) 아두이노 RC카 조립 & 아두이노 주행 환경 구축</h2>
+
+
+
+<br><br><br><h2>🐕‍🦺 Contents_2) 아두이노 RC카 조립 & 아두이노 주행 환경 구축</h2>
 <h3>🎓 RC카 조립 및 기본 IDE 설정</h3>
 
 ![스크린샷 2023-04-15 231930](https://user-images.githubusercontent.com/102565567/232230164-5935c275-a2e2-4a3a-b64d-2169b0923fff.png)
@@ -36,7 +58,7 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 ➡️ `Smart car base`, `DC motor`, `Car Wheels`, `Supports`, `Speed encoder`, `1.5V AA battery holder`, `Pin header`, `T-head`, `Ultrasonic sensor`, `USB cable for Uno`, `Toggle switch`, `Uno R3 compatible board`, `Mini breadboard`, `Motor driver shield`<br><br>
 : **`C`** & **`C++`**
 
-<br><br><br><h2>🎯Step_3) 정상 소스 코드 분석 및 취약점 탐색</h2>
+<br><br><br><h2>🐕‍🦺 Contents_3) 정상 소스 코드 분석 및 취약점 탐색</h2>
 <h3>🎓 정상 주행 코드</h3>
 <details>
 <summary>📑코드 분석</summary><br>
