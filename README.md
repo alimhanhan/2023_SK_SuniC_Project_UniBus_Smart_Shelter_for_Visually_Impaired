@@ -15,14 +15,21 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 
 
 <h4>ㅤThe issue of mobility challenges for the visually impaired, particularly the difficulty in boarding buses, has been consistently highlighted through various media outlets.<br><br>
-ㅤIn fact, 82% of visually impaired survey respondents have indicated that buses are the most challenging mode of transportation among all available options. As shown in the graph above, the bus utilization rate among the visually impaired is even lower than the overall transportation-disabled population, underscoring the considerable difficulties they face in accessing and utilizing buses. </h4><br><hr><br>
+ㅤIn fact, 82% of visually impaired survey respondents have indicated that buses are the most challenging mode of transportation among all available options.<br><br>
+ㅤAs shown in the graph above, the bus utilization rate among the visually impaired is even lower than the overall transportation-disabled population, underscoring the considerable difficulties they face in accessing and utilizing buses. </h4><br><hr><br>
 
 ![스크린샷 2023-08-10 112706](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/d4898b7c-dc9b-4588-91cf-079cb5557b40)
 
 
 
-<h4>ㅤEven excluding buses, using other modes of transportation is not necessarily easier. Welfare call taxis, a special type of taxi service for the visually impaired, are available. However, out of 10 visually impaired individuals who request welfare call taxis, 4 are unable to board the taxi. Even if they manage to get a welfare call taxi, during peak commuting hours, they often have to wait for more than 2 hours due to high demand.<br><br>
+<h4>ㅤEven excluding buses, using other modes of transportation is not necessarily easier. Welfare call taxis, a special type of taxi service for the visually impaired, are available.<br><br>
+ ㅤHowever, out of 10 visually impaired individuals who request welfare call taxis, 4 are unable to board the taxi. Even if they manage to get a welfare call taxi, during peak commuting hours, they often have to wait for more than 2 hours due to high demand.<br><br>
 ㅤFurthermore, only around 20% of visually impaired applicants receive assistance from guide dogs for the visually impaired. Consequently, the issue of the mobility rights of the visually impaired has consistently been raised, given that the help from guide dogs is limited to a relatively small portion of the visually impaired population.</h4>
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img width="400" alt="핑크색" src="https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/1854fed6-9c02-404a-9534-9cdef1538896">
+
+![스크린샷 2023-08-10 113941](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/6dbed1fe-8bf0-4e77-9a1e-f882416d1d17)
+
 </details>
 <details>
 </div>
