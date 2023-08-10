@@ -7,18 +7,28 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 
 <br><br><h2>🐕‍🦺 Contents_1) Introduction to Project Background </h2>
 <details>
-<summary>📑Background Description</summary><br>
+<summary><h3>📑Background Description</h3></summary>
 <div markdown="1">
-# 임시파일 데이터 조작을 통한 아두이노 보드 공격 기법에 대한 연구<br>
+<h3>👁️‍🗨️ Discovering Challenges in Bus Boarding for the Visually Impaired</h3>
 
 ![스크린샷 2023-08-10 110805](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/8856db37-ea62-4688-b326-f43ff9971d36)
 
+
+<h4>ㅤThe issue of mobility challenges for the visually impaired, particularly the difficulty in boarding buses, has been consistently highlighted through various media outlets.<br><br>
+ㅤIn fact, 82% of visually impaired survey respondents have indicated that buses are the most challenging mode of transportation among all available options. As shown in the graph above, the bus utilization rate among the visually impaired is even lower than the overall transportation-disabled population, underscoring the considerable difficulties they face in accessing and utilizing buses. </h4><br><hr><br>
+
+![스크린샷 2023-08-10 112706](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/d4898b7c-dc9b-4588-91cf-079cb5557b40)
+
+
+
+<h4>ㅤEven excluding buses, using other modes of transportation is not necessarily easier. Welfare call taxis, a special type of taxi service for the visually impaired, are available. However, out of 10 visually impaired individuals who request welfare call taxis, 4 are unable to board the taxi. Even if they manage to get a welfare call taxi, during peak commuting hours, they often have to wait for more than 2 hours due to high demand.<br><br>
+ㅤFurthermore, only around 20% of visually impaired applicants receive assistance from guide dogs for the visually impaired. Consequently, the issue of the mobility rights of the visually impaired has consistently been raised, given that the help from guide dogs is limited to a relatively small portion of the visually impaired population.</h4>
 </details>
 <details>
 </div>
-<summary>📑Background Description</summary><br>
+<summary><h3>📑Background Description</h3></summary>
 <div markdown="1">
-# 임시파일 데이터 조작을 통한 아두이노 보드 공격 기법에 대한 연구<br>
+<h3>👁️‍🗨️ Discovering Challenges in Bus Boarding for the Visually Impaired</h3>
 
 
 
@@ -26,9 +36,9 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 </details>
 <details>
 </div>
-<summary>📑Background Description</summary><br>
+<summary><h3>📑Background Description</h3></summary>
 <div markdown="1">
-# 임시파일 데이터 조작을 통한 아두이노 보드 공격 기법에 대한 연구<br>
+<h3>👁️‍🗨️ Discovering Challenges in Bus Boarding for the Visually Impaired</h3>
 
 
 
