@@ -61,8 +61,8 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 ![스크린샷 2023-08-10 121735](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/4c9862e6-25e2-4867-86c3-83d6ea74b008)
 
 <h3>👉 How might we create an environment
-<br> ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤwhere visually impaired individuals can board buses
-<br> ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤㅤㅤㅤㅤㅤㅤㅤsafely and without missing them? 👈</h3>
+<br> ㅤㅤㅤㅤㅤㅤㅤㅤwhere visually impaired individuals can board buses
+<br> ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤ ㅤㅤㅤㅤsafely and without missing them? 👈</h3>
 
 
 
