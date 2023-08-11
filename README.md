@@ -116,30 +116,52 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 
 
 
-<br><br><br><h2>🐕‍🦺 Contents_4) Ideas & Prototypes</h2>
-<h3>🎓 공격용 조작 코드</h3>
+<br><br><br><h2>🐕‍🦺 Contents_4) UI & UX and Business Expansion Strategies</h2>
 <details>
-<summary>Code 1️⃣_거리가 0일때 후진하도록 조작한 소스 코드</summary><br>
+<summary><h3>📑Scenario for Visually Impaired User</h3></summary>
 <div markdown="1">
- 
-  ⇒ 장애물 인지 기능을 무력화하여 장애물과 충돌하도록 조작
-<br><br><br>**☝️ Code 1 삽입 후 주행 영상**
+<h3>👁️‍🗨️ Discovering Challenges in Bus Boarding for the Visually Impaired</h3>
 
-https://user-images.githubusercontent.com/102565567/232231719-f00d703e-c303-4eaf-b914-ada00c8c7dc8.mp4
+![스크린샷 2023-08-10 110805](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/8856db37-ea62-4688-b326-f43ff9971d36)
 
+
+<h4>ㅤThe issue of mobility challenges for the visually impaired, particularly the difficulty in boarding buses, has been consistently highlighted through various media outlets.<br><br>
+ㅤIn fact, 82% of visually impaired survey respondents have indicated that buses are the most challenging mode of transportation among all available options.<br><br>
+ㅤAs shown in the graph above, the bus utilization rate among the visually impaired is even lower than the overall transportation-disabled population, underscoring the considerable difficulties they face in accessing and utilizing buses. </h4><br><hr><br>
+
+![스크린샷 2023-08-10 112706](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/d4898b7c-dc9b-4588-91cf-079cb5557b40)
+
+
+
+<h4>ㅤEven excluding buses, using other modes of transportation is not necessarily easier. Welfare call taxis, a special type of taxi service for the visually impaired, are available.<br><br>
+ ㅤHowever, out of 10 visually impaired individuals who request welfare call taxis, 4 are unable to board the taxi. Even if they manage to get a welfare call taxi, during peak commuting hours, they often have to wait for more than 2 hours due to high demand.<br><br>
+ㅤFurthermore, only around 20% of visually impaired applicants receive assistance from guide dogs for the visually impaired. Consequently, the issue of the mobility rights of the visually impaired has consistently been raised, given that the help from guide dogs is limited to a relatively small portion of the visually impaired population.</h4>
+
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img width="400" alt="핑크색" src="https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/1854fed6-9c02-404a-9534-9cdef1538896">
+
+![스크린샷 2023-08-10 113941](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/6dbed1fe-8bf0-4e77-9a1e-f882416d1d17)
+
+<hr></details>
+<details>
+</div>
+<summary><h3>📑Project Development Potential</h3></summary>
+<div markdown="1">
+<h3>👁️‍🗨️ Establishing a Foundation for Problem Definition</h3>
+
+![스크린샷 2023-08-10 114634](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/1153b4f4-33e9-41b8-af72-b2882fe48560)
+
+<h4>ㅤRecognizing the notably low bus utilization rate among the visually impaired and the gap between the current situation and the goal of seamless bus boarding for them, when considering the following questions, we were able to extract the following insights:</h4><br>
+<h3>➡️ Since visually impaired individuals are unable to accurately determine when and where buses stop, they often encounter difficulties and perceive risks during the boarding process. This uncertainty leads them to avoid using buses altogether.</h3>
+
+<br><hr><br>
+
+![스크린샷 2023-08-10 114722](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/76008264-a663-4761-a0e8-1ac562965f0c)
+
+<h4>ㅤWith this realization, we shifted our focus towards further systematizing the bus boarding process for the visually impaired, and we recognized the need for deeper empathy.<br><br>
+ ㅤTo achieve this, we drew inspiration from various sources featuring visually impaired individuals. Subsequently, we translated the visually impaired individual's bus boarding journey into a table format as depicted above.</h4><hr>
 </div>
 </details>
-<details>
-<summary>Code 2️⃣_`Distance_Measurement()`함수(=장애물 거리 측정 함수)의 반환값을 항상 400이 되도록 조작한 소스 코드</summary><br>
-<div markdown="1">
 
- ⇒ 장애물과의 실제 거리를 반영하지 못하게 함으로써 장애물과 충돌하도록 조작
-<br><br><br>**✌️ Code 2 삽입 후 주행 영상**
-
-https://user-images.githubusercontent.com/102565567/232231980-074545f0-b612-4abb-89cc-4ce8848319bb.mp4
-
-</div>
-</details>
 <br><br><br><h2>🎯Step_5) 취약점 보완 조치 진행</h2>
 <h3>🎓 취약점 보완 코드</h3>
 <details> 
