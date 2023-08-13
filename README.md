@@ -117,31 +117,71 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 
 
 <br><br><br><h2>🐕‍🦺 Contents_4) UI & UX and Business Expansion Strategies</h2>
+<h3>👁️‍🗨️ Scenario for Visually Impaired User</h3>
+
+![스크린샷 2023-08-13 084759](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/2ecd7f95-ae41-4977-a2aa-fa06b383c714)
+
+
 <details>
-<summary><h3>📑Scenario for Visually Impaired User</h3></summary>
+</div>
+<summary><h3>1️⃣ After the user arrives at the bus stop, they discover the boarding notification.</h3></summary>
 <div markdown="1">
-<h3>👁️‍🗨️ Discovering Challenges in Bus Boarding for the Visually Impaired</h3>
 
-![스크린샷 2023-08-10 110805](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/8856db37-ea62-4688-b326-f43ff9971d36)
-
-
-<h4>ㅤThe issue of mobility challenges for the visually impaired, particularly the difficulty in boarding buses, has been consistently highlighted through various media outlets.<br><br>
-ㅤIn fact, 82% of visually impaired survey respondents have indicated that buses are the most challenging mode of transportation among all available options.<br><br>
-ㅤAs shown in the graph above, the bus utilization rate among the visually impaired is even lower than the overall transportation-disabled population, underscoring the considerable difficulties they face in accessing and utilizing buses. </h4><br><hr><br>
-
-![스크린샷 2023-08-10 112706](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/d4898b7c-dc9b-4588-91cf-079cb5557b40)
+![스크린샷 2023-08-13 085641](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/4763aaa8-40ba-4f0c-a772-91c045b7d509)
 
 
+</div>
+</details>
+<details>
+</div>
+<summary><h3>2️⃣ The user picks up the boarding notification handset, tags their welfare card following the guided voice instructions.</h3></summary>
+<div markdown="1">
 
-<h4>ㅤEven excluding buses, using other modes of transportation is not necessarily easier. Welfare call taxis, a special type of taxi service for the visually impaired, are available.<br><br>
- ㅤHowever, out of 10 visually impaired individuals who request welfare call taxis, 4 are unable to board the taxi. Even if they manage to get a welfare call taxi, during peak commuting hours, they often have to wait for more than 2 hours due to high demand.<br><br>
-ㅤFurthermore, only around 20% of visually impaired applicants receive assistance from guide dogs for the visually impaired. Consequently, the issue of the mobility rights of the visually impaired has consistently been raised, given that the help from guide dogs is limited to a relatively small portion of the visually impaired population.</h4>
+![스크린샷 2023-08-13 085957](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/edb389fe-3218-4710-a2d4-a31c7e1746be)
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img width="400" alt="핑크색" src="https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/1854fed6-9c02-404a-9534-9cdef1538896">
 
-![스크린샷 2023-08-10 113941](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/6dbed1fe-8bf0-4e77-9a1e-f882416d1d17)
+</div>
+</details>
+<details>
+</div>
+<summary><h3>3️⃣ The user follows the instructions and enters the bus number, expressing their intention to board.</h3></summary>
+<div markdown="1">
 
-<hr></details>
+![스크린샷 2023-08-13 090113](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/b464a764-81c6-4d8c-a389-ff4d45f2e7b4)
+
+
+
+</div>
+</details>
+<details>
+</div>
+<summary><h3>4️⃣ The user receives information about the estimated arrival time of the selected bus.</h3></summary>
+<div markdown="1">
+
+![스크린샷 2023-08-13 090528](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/004414f2-fae7-419f-8591-7743d3191502)
+
+
+</div>
+</details>
+<details>
+</div>
+<summary><h3>5️⃣ After the guidance concludes, the user moves to the luminous braille block and waits until the bus arrives.</h3></summary>
+<div markdown="1">
+
+![스크린샷 2023-08-13 090815](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/c249640e-824d-4e86-b43e-e80918bc1590)
+
+</div>
+</details>
+<details>
+</div>
+<summary><h3>6️⃣ When the bus arrives, the traffic light changes color and a voice announcement is broadcasted, and the user boards the bus.</h3></summary>
+<div markdown="1">
+
+![스크린샷 2023-08-13 090941](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/d1b42a3c-21db-456b-b546-d1416f2231c7)
+
+</div>
+</details>
+
 <details>
 </div>
 <summary><h3>📑Project Development Potential</h3></summary>
