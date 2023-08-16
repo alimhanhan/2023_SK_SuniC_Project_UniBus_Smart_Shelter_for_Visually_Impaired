@@ -138,7 +138,7 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 </div>
 <summary><h3>Step 1️⃣-2️⃣</h3></summary>
 <div markdown="1">
-<h3>21️⃣-2️⃣ The user picks up the boarding notification handset, tags their welfare card following the guided voice instructions.</h3>
+<h3>1️⃣-2️⃣ The user picks up the boarding notification handset, tags their welfare card following the guided voice instructions.</h3>
 
 ![스크린샷 2023-08-13 085957](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/edb389fe-3218-4710-a2d4-a31c7e1746be)
 
@@ -147,8 +147,9 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 </details>
 <details>
 </div>
-<summary><h3>3️⃣ The user follows the instructions and enters the bus number, expressing their intention to board.</h3></summary>
+<summary><h3>Step 1️⃣-3️⃣</h3></summary>
 <div markdown="1">
+<h3>1️⃣-3️⃣ The user follows the instructions and enters the bus number, expressing their intention to board.</h3>
 
 ![스크린샷 2023-08-13 090113](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/b464a764-81c6-4d8c-a389-ff4d45f2e7b4)
 
@@ -158,8 +159,9 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 </details>
 <details>
 </div>
-<summary><h3>4️⃣ The user receives information about the estimated arrival time of the selected bus.</h3></summary>
+<summary><h3>Step 1️⃣-4️⃣</h3></summary>
 <div markdown="1">
+<h3>1️⃣-4️⃣ The user receives information about the estimated arrival time of the selected bus.</h3>
 
 ![스크린샷 2023-08-13 090528](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/004414f2-fae7-419f-8591-7743d3191502)
 
@@ -168,8 +170,9 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 </details>
 <details>
 </div>
-<summary><h3>5️⃣ After the guidance concludes, the user moves to the luminous braille block and waits until the bus arrives.</h3></summary>
+<summary><h3>Step 2️⃣-1️⃣</h3></summary>
 <div markdown="1">
+<h3>2️⃣-1️⃣ After the guidance concludes, the user moves to the luminous braille block and waits until the bus arrives.</h3>
 
 ![스크린샷 2023-08-13 090815](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/c249640e-824d-4e86-b43e-e80918bc1590)
 
@@ -177,8 +180,9 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 </details>
 <details>
 </div>
-<summary><h3>6️⃣ When the bus arrives, the traffic light changes color and a voice announcement is broadcasted, and the user boards the bus.</h3></summary>
+<summary><h3>Step 3️⃣-1️⃣</h3></summary>
 <div markdown="1">
+<h3>3️⃣-1️⃣ When the bus arrives, the traffic light changes color and a voice announcement is broadcasted, and the user boards the bus.</h3>
 
 ![스크린샷 2023-08-13 090941](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/d1b42a3c-21db-456b-b546-d1416f2231c7)
 
