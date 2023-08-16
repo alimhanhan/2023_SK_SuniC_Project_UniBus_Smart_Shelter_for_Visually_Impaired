@@ -124,8 +124,10 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 
 <details>
 </div>
-<summary><h3>1️⃣ After the user arrives at the bus stop, they discover the boarding notification.</h3></summary>
+<summary><h3>Step 1️⃣-1️⃣</h3></summary>
 <div markdown="1">
+
+<h3>1️⃣-1️⃣ After the user arrives at the bus stop, they discover the boarding notification.</h3>
 
 ![스크린샷 2023-08-13 085641](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/4763aaa8-40ba-4f0c-a772-91c045b7d509)
 
@@ -134,8 +136,9 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 </details>
 <details>
 </div>
-<summary><h3>2️⃣ The user picks up the boarding notification handset, tags their welfare card following the guided voice instructions.</h3></summary>
+<summary><h3>Step 1️⃣-2️⃣</h3></summary>
 <div markdown="1">
+<h3>21️⃣-2️⃣ The user picks up the boarding notification handset, tags their welfare card following the guided voice instructions.</h3>
 
 ![스크린샷 2023-08-13 085957](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/edb389fe-3218-4710-a2d4-a31c7e1746be)
 
