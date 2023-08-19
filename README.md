@@ -197,33 +197,62 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 
 ![스크린샷 2023-08-19 201955](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/61cbf003-ae79-4d17-b13e-44f6cc25701a)
 
-<h4>ㅤWe will continue our efforts to ensure fair mobility rights, along with the potential for expanding our target audience, the growth potential of SmartShelter, the possibility of collaboration with private services, and awareness-changing campaigns for marginalized communities.</h4><br><br><hr>
+<h4>ㅤWe will continue our efforts to ensure fair mobility rights, along with the potential for expanding our target audience, the growth potential of SmartShelter, the possibility of collaboration with private services, and awareness-changing campaigns for marginalized communities.</h4><br><hr>
 </div>
 </details>
 
-<br><br><br><h2>🎯Step_5) 취약점 보완 조치 진행</h2>
-<h3>🎓 취약점 보완 코드</h3>
-<details> 
-<summary>Code 1️⃣_장애물을 만날 때 로봇의 방향 번경 전 앞에 장애물이 있는지를 검사하는 과정 추가</summary><br>
+<br><br><br><h2>🐕‍🦺 Contents_5) Idea Validation and Expected Impact</h2>
+<h3>👁️‍🗨️ Prototype Evaluation and Validation</h3>
+
+![스크린샷 2023-08-19 204041](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/6ceaa2bb-fcd7-4064-bb22-06c8dcb24d19)
+
+
+<h3>👉 Our prototype has undergone an evaluation process based on necessity, concreteness, usability, and innovation. The details of this evaluation are as follows:</h3>
+<details>
+</div>
+<summary><h3>📑Necessity</h3></summary>
 <div markdown="1">
- 
-  —> 장애물이 있는 경우 장애물을 피할 방향을 결정하고, 장애물이 없는 방향으로 변경하여 이동한다. 이를 위해 `Left()`와 `Right()`함수를 이용하여 로봇을 각 방향으로 회전시키고, `Distance_Measurement()`함수를 이용하여 회전한 방향으로부터의 거리를 측정한다. 이후 거리가 더 긴 방향으로 회전하여 이동한다.
-<br><br><br>**☝️ Code 1 조치 후 주행 영상**
-
-https://user-images.githubusercontent.com/102565567/232232504-0664049c-0351-40de-87fe-3d0c40242caf.mp4
-
+<h3>👁️‍🗨️ The problem we have defined is a task that, given the population of visually impaired individuals and the ratio of bus passengers, someone, someday, must definitely address.</h3>
 </div>
 </details>
 <details>
-<summary>Code 2️⃣_보안 코드 1에 이전에 만난 장애물의 위치를 기억하게 하는 코드 추가</summary><br>
+</div>
+<summary><h3>📑Concreteness</h3></summary>
 <div markdown="1">
+<h3>👁️‍🗨️ Continual Steps for Ensuring Fair Mobility Rights</h3>
 
- —> `prev_distance`라는 전역 변수를 추가하고, `Obstacle_Check()`함수에서 현재 거리(`distance`)와 이전 거리(`prev_distance`)를 비교하여, 이전에 만난 장애물의 위치를 기억하게 하는 코드를 추가
-<br><br><br>**✌️ Code 2 조치 후 주행 영상**
+![스크린샷 2023-08-19 201955](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/61cbf003-ae79-4d17-b13e-44f6cc25701a)
 
-—> 50번의 운행 시도 결과, 장애물 위치를 인지했던 첫 번째 운행을 제외한 나머지 49번 모두 장애물이 없는 좌측으로 방향을 전환함을 확인
-
-https://user-images.githubusercontent.com/102565567/232232597-1aad853c-9fac-413d-a71c-e899fafda603.mp4
-
+<h4>ㅤWe will continue our efforts to ensure fair mobility rights, along with the potential for expanding our target audience, the growth potential of SmartShelter, the possibility of collaboration with private services, and awareness-changing campaigns for marginalized communities.</h4><br><hr>
 </div>
 </details>
+<details>
+</div>
+<summary><h3>📑Usability</h3></summary>
+<div markdown="1">
+<h3>👁️‍🗨️ Continual Steps for Ensuring Fair Mobility Rights</h3>
+
+![스크린샷 2023-08-19 201955](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/61cbf003-ae79-4d17-b13e-44f6cc25701a)
+
+<h4>ㅤWe will continue our efforts to ensure fair mobility rights, along with the potential for expanding our target audience, the growth potential of SmartShelter, the possibility of collaboration with private services, and awareness-changing campaigns for marginalized communities.</h4><br><hr>
+</div>
+</details>
+<details>
+</div>
+<summary><h3>📑Innovation</h3></summary>
+<div markdown="1">
+<h3>👁️‍🗨️ Continual Steps for Ensuring Fair Mobility Rights</h3>
+
+![스크린샷 2023-08-19 201955](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/61cbf003-ae79-4d17-b13e-44f6cc25701a)
+
+<h4>ㅤWe will continue our efforts to ensure fair mobility rights, along with the potential for expanding our target audience, the growth potential of SmartShelter, the possibility of collaboration with private services, and awareness-changing campaigns for marginalized communities.</h4><br><hr>
+</div>
+</details>
+
+
+
+
+
+
+
+
