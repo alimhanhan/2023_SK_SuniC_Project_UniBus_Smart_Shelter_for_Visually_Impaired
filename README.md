@@ -193,9 +193,10 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 </div>
 <summary><h3>📑Project Development Potential</h3></summary>
 <div markdown="1">
-<h3>👁️‍🗨️ Establishing a Foundation for Problem Definition</h3>
+<h3>👁️‍🗨️ Continual Steps for Ensuring Fair Mobility Rights</h3>
 
-![스크린샷 2023-08-10 114634](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/1153b4f4-33e9-41b8-af72-b2882fe48560)
+![스크린샷 2023-08-19 201955](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/61cbf003-ae79-4d17-b13e-44f6cc25701a)
+
 
 <h4>ㅤRecognizing the notably low bus utilization rate among the visually impaired and the gap between the current situation and the goal of seamless bus boarding for them, when considering the following questions, we were able to extract the following insights:</h4><br>
 <h3>➡️ Since visually impaired individuals are unable to accurately determine when and where buses stop, they often encounter difficulties and perceive risks during the boarding process. This uncertainty leads them to avoid using buses altogether.</h3>
