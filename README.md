@@ -207,7 +207,7 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 ![스크린샷 2023-08-19 204041](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/6ceaa2bb-fcd7-4064-bb22-06c8dcb24d19)
 
 
-<h3>👉 Our prototype has undergone an evaluation process based on necessity, concreteness, usability, and innovation. The details of this evaluation are as follows:</h3>
+<h3>👉 Our prototype has undergone an evaluation process based on necessity, concreteness, usability, and innovation. The details of this evaluation are as follows:</h3><br><br>
 <details>
 </div>
 <summary><h3>📑Necessity</h3></summary>
@@ -219,22 +219,14 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 </div>
 <summary><h3>📑Concreteness</h3></summary>
 <div markdown="1">
-<h3>👁️‍🗨️ Continual Steps for Ensuring Fair Mobility Rights</h3>
-
-![스크린샷 2023-08-19 201955](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/61cbf003-ae79-4d17-b13e-44f6cc25701a)
-
-<h4>ㅤWe will continue our efforts to ensure fair mobility rights, along with the potential for expanding our target audience, the growth potential of SmartShelter, the possibility of collaboration with private services, and awareness-changing campaigns for marginalized communities.</h4><br><hr>
+<h3>👁️‍🗨️ Our prototype faithfully followed the design thinking process, going through a process of discovering tangible issues by listening to the voices of stakeholders through interviews with current bus drivers and visually impaired individuals.</h3>
 </div>
 </details>
 <details>
 </div>
 <summary><h3>📑Usability</h3></summary>
 <div markdown="1">
-<h3>👁️‍🗨️ Continual Steps for Ensuring Fair Mobility Rights</h3>
-
-![스크린샷 2023-08-19 201955](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/61cbf003-ae79-4d17-b13e-44f6cc25701a)
-
-<h4>ㅤWe will continue our efforts to ensure fair mobility rights, along with the potential for expanding our target audience, the growth potential of SmartShelter, the possibility of collaboration with private services, and awareness-changing campaigns for marginalized communities.</h4><br><hr>
+<h3>👁️‍🗨️ Our prototype was introduced in the context of the opportune expansion of SmartShelter, starting as an idea for visually impaired individuals but gradually evolving into a system applicable to all transportation users with disabilities, making it highly versatile.</h3>
 </div>
 </details>
 <details>
