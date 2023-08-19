@@ -197,7 +197,7 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 
 ![스크린샷 2023-08-19 201955](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/61cbf003-ae79-4d17-b13e-44f6cc25701a)
 
-<h4>ㅤWe will continue our efforts to ensure fair mobility rights, along with the potential for expanding our target audience, the growth potential of SmartShelter, the possibility of collaboration with private services, and awareness-changing campaigns for marginalized communities.</h4><hr>
+<h4>ㅤWe will continue our efforts to ensure fair mobility rights, along with the potential for expanding our target audience, the growth potential of SmartShelter, the possibility of collaboration with private services, and awareness-changing campaigns for marginalized communities.</h4><br><hr>
 </div>
 </details>
 
