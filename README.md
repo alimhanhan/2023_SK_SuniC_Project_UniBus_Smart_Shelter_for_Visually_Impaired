@@ -212,32 +212,30 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 </div>
 <summary><h3>📑Necessity</h3></summary>
 <div markdown="1">
-<h3>👁️‍🗨️ The problem we have defined is a task that, given the population of visually impaired individuals and the ratio of bus passengers, someone, someday, must definitely address.</h3>
+<h4>👁️‍🗨️ The problem we have defined is a task that, given the population of visually impaired individuals and the ratio of bus passengers, someone, someday, must definitely address.</h4>
 </div>
 </details>
 <details>
 </div>
 <summary><h3>📑Concreteness</h3></summary>
 <div markdown="1">
-<h3>👁️‍🗨️ Our prototype faithfully followed the design thinking process, going through a process of discovering tangible issues by listening to the voices of stakeholders through interviews with current bus drivers and visually impaired individuals.</h3>
+<h4>👁️‍🗨️ Our prototype faithfully followed the design thinking process, going through a process of discovering tangible issues by listening to the voices of stakeholders through interviews with current bus drivers and visually impaired individuals.</h4>
 </div>
 </details>
 <details>
 </div>
 <summary><h3>📑Usability</h3></summary>
 <div markdown="1">
-<h3>👁️‍🗨️ Our prototype was introduced in the context of the opportune expansion of SmartShelter, starting as an idea for visually impaired individuals but gradually evolving into a system applicable to all transportation users with disabilities, making it highly versatile.</h3>
+<h4>👁️‍🗨️ Our prototype was introduced in the context of the opportune expansion of SmartShelter, starting as an idea for visually impaired individuals but gradually evolving into a system applicable to all transportation users with disabilities, making it highly versatile.</h4>
 </div>
 </details>
 <details>
 </div>
 <summary><h3>📑Innovation</h3></summary>
 <div markdown="1">
-<h3>👁️‍🗨️ Continual Steps for Ensuring Fair Mobility Rights</h3>
-
-![스크린샷 2023-08-19 201955](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/61cbf003-ae79-4d17-b13e-44f6cc25701a)
-
-<h4>ㅤWe will continue our efforts to ensure fair mobility rights, along with the potential for expanding our target audience, the growth potential of SmartShelter, the possibility of collaboration with private services, and awareness-changing campaigns for marginalized communities.</h4><br><hr>
+<h4>👁️‍🗨️ While existing ideas posed challenges in accommodating the elderly visually impaired who might find app usage difficult, our prototype was designed to be physically accessible to everyone through a tangible approach.
+ <br><br>
+ㅤFurthermore, conventional systems primarily relied on camera-based bus identification methods, but our innovation lies in designing a prototype that can be perceived through the senses of visually impaired individuals.</h4>
 </div>
 </details>
 
