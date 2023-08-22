@@ -244,8 +244,14 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 
 ![스크린샷 2023-08-22 120925](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/b425986c-95a1-48e4-bd42-4a8c8da791a5)
 
+<h3>Through our prototype, we can anticipate effects in the following five aspects:<br><br>
 
-
+Improved Information Accessibility
+Enhanced Safety
+Ensured Mobility Rights
+Establishment of an Inclusive Urban Environment
+Promotion of Technological Innovation
+</h3>
 
 
 
