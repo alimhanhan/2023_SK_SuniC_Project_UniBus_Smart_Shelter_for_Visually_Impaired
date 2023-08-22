@@ -238,8 +238,11 @@ https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Vis
 ㅤFurthermore, conventional systems primarily relied on camera-based bus identification methods, but our innovation lies in designing a prototype that can be perceived through the senses of visually impaired individuals.</h4>
 </div>
 </details>
+<br>
+<hr><br>
+<h3>👁️‍🗨️ Anticipated Effects of the Prototype</h3>
 
-
+![스크린샷 2023-08-22 120925](https://github.com/alimhanhan/2023_SK_SuniC_Project_UniBus_Smart_Shelter_for_Visually_Impaired/assets/102565567/b425986c-95a1-48e4-bd42-4a8c8da791a5)
 
 
 
